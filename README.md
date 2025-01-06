@@ -30,7 +30,7 @@ This project was developed as a hands-on exercise to apply concepts learned in a
 - **Enhanced Graphics**: Improve the visual design of the car, packages, and environment.
 
 ## How to Open the Project
-1. [Download the project from Google Drive]([https://drive.google.com/yourlinkhere](https://drive.google.com/file/d/1bcZcW7Tx4zkbiL_Vucbr1mz9nXeuNxfh/view?usp=sharing))
+1. [Download the project from Google Drive](https://drive.google.com/file/d/1bcZcW7Tx4zkbiL_Vucbr1mz9nXeuNxfh/view?usp=sharing)
 2. Extract the downloaded file.
 3. Open the project in Unity version 2021.3.21f1 or later.
 4. Add the project to Unity and open it.
